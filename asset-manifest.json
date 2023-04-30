@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vault_react/static/css/main.46d5bf67.css",
+    "main.js": "/vault_react/static/js/main.a20635f7.js",
+    "static/js/988.3dc4c431.chunk.js": "/vault_react/static/js/988.3dc4c431.chunk.js",
+    "index.html": "/vault_react/index.html",
+    "main.46d5bf67.css.map": "/vault_react/static/css/main.46d5bf67.css.map",
+    "main.a20635f7.js.map": "/vault_react/static/js/main.a20635f7.js.map",
+    "988.3dc4c431.chunk.js.map": "/vault_react/static/js/988.3dc4c431.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46d5bf67.css",
+    "static/js/main.a20635f7.js"
+  ]
+}
